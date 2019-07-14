@@ -1,0 +1,4 @@
+node_modules/
+
+#normally we shouldn't commit .env, this just for test project only
+#.env
